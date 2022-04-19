@@ -25,7 +25,6 @@
     </div>
 
         @include('layouts.theme-setting-modal')
-    
 
         @include('layouts.search-modal')
 
